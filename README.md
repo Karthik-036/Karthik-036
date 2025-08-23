@@ -1,4 +1,4 @@
-# Hi, I'm Karthik Patel  
+# Hi, I'm Karthik Kandala
 
 Frontend Developer | Aspiring Full Stack Developer | Tech Enthusiast 
 
