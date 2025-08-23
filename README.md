@@ -15,6 +15,7 @@ I enjoy building interactive, responsive, and user-friendly web applications.Cur
 ---
 
 ## Tech Stack
+Programming languages: Java, Python
 Frontend: HTML, CSS, JavaScript, React, Tailwind, Bootstrap  
 Backend: Springboot (learning)  
 Database: MySQL, MongoDB (learning)  
