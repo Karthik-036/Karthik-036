@@ -16,7 +16,7 @@ I enjoy building interactive, responsive, and user-friendly web applications.Cur
 
 ## Tech Stack
 Frontend: HTML, CSS, JavaScript, React, Tailwind, Bootstrap  
-Backend: Java, Springboot (learning)  
+Backend: Springboot (learning)  
 Database: MySQL, MongoDB (learning)  
 Tools: Git, GitHub, VS Code, Postman  
 
