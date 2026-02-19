@@ -24,7 +24,7 @@ Tools: Git, GitHub, VS Code, Postman
 ---
 
 ## Featured Projects
-- 🔗 [Todos app using React](react-todo-app-ydew.vercel.app)
+- 🔗 [Todos app using React](https://react-todo-app-ydew.vercel.app)
 - 🔗 [Wikipedia Clone](https://karthik-036.github.io/Wikipedia-clone-web-application/)
 - 🔗 [Todos application](https://karthik-036.github.io/Todo-List-Javascript/)  
 - 🔗 [Portfolio Website](https://karthik-036.github.io/personal-portfolio/)
