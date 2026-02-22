@@ -25,6 +25,7 @@ Tools: Git, GitHub, VS Code, Postman
 
 ## Featured Projects
 - 🔗 [E-commerce App using React](https://karthik-036.github.io/E-commerce-react/)
+- 🔗 [Movies app using React](https://karthik-036.github.io/React-Movie-app/)
 - 🔗 [Todos app using React](https://react-todo-app-ydew.vercel.app)
 - 🔗 [Wikipedia Clone](https://karthik-036.github.io/Wikipedia-clone-web-application/)
 - 🔗 [Todos application](https://karthik-036.github.io/Todo-List-Javascript/)  
